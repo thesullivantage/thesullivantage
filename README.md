@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on ... Web Development Projects for hire, or scientific research in any capacity!
 
-📫 How to reach me ... Contact me on LinkedIn :: https://www.linkedin.com/in/jack-sullivan-1a066389/
+📫 How to reach me ... Contact me on LinkedIn : : https://www.linkedin.com/in/jack-sullivan-1a066389/
 
 📷 Or on Instagram! At the same username you see for GitHub. 
 
