@@ -1,5 +1,7 @@
 👋 Hi, I’m @thesullivantage (Jack Sullivan)
 
+💼 I assist the LIGO Scientific Collaboration with gravitational waveform reconstruction at Georgia Institute of Technology... from events like black hole mergers!
+
 👀 I’m interested in... all things science, technology, and mathematics. 
 
 🌱 I’m currently honing my skills in C++ and learning more about the ancient atmosphere of Mars before it was blown away by solar winds.
@@ -9,8 +11,6 @@
 📫 How to reach me ... Contact me on LinkedIn : : https://www.linkedin.com/in/jack-sullivan-1a066389/
 
 📷 Or on Instagram! At the same username you see for GitHub. 
-
-
 
 <!---
 thesullivantage/thesullivantage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
